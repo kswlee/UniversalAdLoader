@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/helen-x/JitpackReleaseDemo.svg)](https://jitpack.io/#helen-x/JitpackReleaseDemo)
+[![](https://jitpack.io/v/kswlee/UniversalAdLoader.svg)](https://jitpack.io/#kswlee/UniversalAdLoader)
 
 # UniveralAdLoader - An Android local Ad mediation helper
 
